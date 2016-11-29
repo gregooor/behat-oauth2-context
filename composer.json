@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.4.0",
         "behat/behat": "^3.0",
-        "guzzlehttp/guzzle": "^5.1"
+        "guzzlehttp/guzzle": "^6.2"
     },
     "autoload":{
         "psr-4" : {"RstGroup\\Behat\\OAuth2\\Context\\": "src/"}
